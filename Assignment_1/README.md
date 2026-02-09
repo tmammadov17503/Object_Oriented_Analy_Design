@@ -35,8 +35,9 @@ The program will output three tables (one for each generator type). Each table d
 **Example of the output format:**
 ```text
 Generator: java.util.Random
-Size(n)    Mean       StdDev     Min        Max       
+Sizes    Mean       StdDev     Min        Max       
 ---------------------------------------------------------
 100        0.51432    0.28120    0.01234    0.98765   
 1000       0.49812    0.28910    0.00123    0.99981   
+
 100000     0.50015    0.28870    0.00001    0.99999
